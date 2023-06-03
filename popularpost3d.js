@@ -1,8 +1,8 @@
 /* http://keith-wood.name/imageCube.html
-   http://www.seocips.com/2014/01/cara-mengubah-tampilan-popular-post.html
-   http://www.seocips.com/
+   https://www.kompapa.com/2023/05/cara-mengubah-tampilan-widget-popular-post-blogger.html
+   https://www.kompapa.com
    Image Cube for jQuery v1.2.1.
-   Written by Keith Wood (kbwood{at}iinet.com.au) June 2008.
+   Written by Keith Wood (kbwood{at}iinet.com.au).
    Dual licensed under the GPL (http://dev.jquery.com/browser/trunk/jquery/GPL-LICENSE.txt) and 
    MIT (http://dev.jquery.com/browser/trunk/jquery/MIT-LICENSE.txt) licenses. 
    Please attribute the author if you use it. */
